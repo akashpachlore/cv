@@ -1,0 +1,12 @@
+button {
+  width: 100%;
+}
+li {
+   flex-grow: 1;
+}
+menu, ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  width: 400px;
+}
